@@ -39,7 +39,7 @@ li {
 
 
 #header-bg-img {
-    background-image: url(img/bg-mobile.jpg), linear-gradient(#28313B,#485461);
+    background-image: url(img/header.png), linear-gradient(#28313B,#485461);
     height: 70vh;
     width: 100%;
     margin-bottom: 1rem;
